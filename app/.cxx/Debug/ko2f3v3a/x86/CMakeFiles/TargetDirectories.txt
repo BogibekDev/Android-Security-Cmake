@@ -1,0 +1,3 @@
+/home/bogibek/AndroidStudioProjects/Android-Security-CMake/app/.cxx/Debug/ko2f3v3a/x86/CMakeFiles/rebuild_cache.dir
+/home/bogibek/AndroidStudioProjects/Android-Security-CMake/app/.cxx/Debug/ko2f3v3a/x86/CMakeFiles/edit_cache.dir
+/home/bogibek/AndroidStudioProjects/Android-Security-CMake/app/.cxx/Debug/ko2f3v3a/x86/CMakeFiles/native-lib.dir
